@@ -11,8 +11,12 @@ A simple web app for image classification using a pre-trained MobileNetV2 model 
 ## Installation
 
 Clone the repository and install dependencies:
-```bash  uv add streamlit tensorflow opencv-python```
+```bash 
+  uv add streamlit tensorflow opencv-python
+  ```
 
 ## Usage
 Run the Streamlit app:
-```bash streamlit run main.py```
+```bash 
+   uv run streamlit run main.py
+   ```
